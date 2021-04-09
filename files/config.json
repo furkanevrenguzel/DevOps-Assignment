@@ -1,0 +1,10 @@
+{
+    "jira": {
+        "username": "admin",
+        "password": "123456"
+    },
+    "bitbucket": {
+        "username": "admin",
+        "password": "123456"
+    }
+}
